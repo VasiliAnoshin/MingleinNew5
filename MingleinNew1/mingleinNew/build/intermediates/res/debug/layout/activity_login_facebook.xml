@@ -1,0 +1,53 @@
+<RelativeLayout android:background="@color/app_main_color"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:facebook="http://schemas.android.com/apk/com.minglein.minglein"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <com.facebook.login.widget.LoginButton
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            facebook:tooltip_mode="never_display"
+            facebook:confirm_logout="false"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            />
+
+        <!--
+        <LinearLayout android:layout_height="wrap_content"
+            android:layout_width="150dp"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal">
+
+            <TextView android:layout_height="wrap_content" android:layout_width="wrap_content"
+                android:id="@+id/greeting"
+                android:layout_gravity="center"
+                android:textSize="18sp"
+                android:textColor="#333"
+                android:layout_marginLeft="10dp"/>
+
+            <com.facebook.login.widget.ProfilePictureView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/profilePicture"
+                android:gravity="center_horizontal"
+                facebook:preset_size="normal"
+                android:layout_marginBottom="10dp"/>
+
+            <Button android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:id="@+id/postStatusUpdateButton"
+                android:text="Post Status Update"/>
+
+            <Button android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:id="@+id/postPhotoButton"
+                android:text="Post Photo"/>
+
+        </LinearLayout>
+        -->
+
+</RelativeLayout><!-- From: file:/C:/Users/Vasili/Desktop/MingleinNew8/MingleinNew5/MingleinNew1/mingleinNew/src/main/res/layout/activity_login_facebook.xml -->

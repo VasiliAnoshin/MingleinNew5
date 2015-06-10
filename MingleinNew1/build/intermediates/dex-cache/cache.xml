@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8d6ecee15ab48ccf240875d83e94232c76fb5df0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-68ec648b2f96f2eb13bd2f534b990d09c7ff1aaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\classes-0bbc149521f44d59885b227873d7d7fe0da5ce06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\exploded-aar\MingleinNew1\linkedin-sdk\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5dcc2d4aee0ee2f64c90a069dd92b5776222b0a1">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\classes-39841fcff438e17f803c25bda104bf5d6790e6c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\picasso-2.5.2-fad6ca7822f909e24b2a133d9d16a08952293908.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\classes-651a821362936b1e840fffce5425d5b4ab94e2a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\exploded-aar\MingleinNew1\linkedin-sdk\unspecified\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c4c0b8d237757dce06738a695d8b5c09d0ea2574">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\volley-f3fd7de54bb0a3dc23ce8a11c1954d77ffc820da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8f5f0b15b33d031ad30cdd61c0f16929f994e269.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Vasili\Desktop\MingleinNew8\MingleinNew5\MingleinNew1\mingleinNew\build\intermediates\pre-dexed\debug\classes-0ff0c9cf10f3ab647d7f4e6c453a54e3e31ad273.jar" />
+    </item>
+
+</items>
